@@ -1,5 +1,7 @@
 # Netflix Clone
 
+Live Website - https://imaginative-trifle-b3d9d7.netlify.app/
+
 The Netflix Clone is a full-stack application built using React for the frontend and Firebase for the backend. This project replicates the core functionalities of Netflix, allowing users to browse movies dynamically, authenticate with their credentials, and enjoy a seamless experience. The movie data is fetched in real time using the TMDB API, which provides details such as movie titles, posters, durations, and trailer links.
 
 The application is initialized using Vite, ensuring a fast and optimized development experience. Navigation within the app is handled using React Router, specifically the BrowserRouter component, which allows for smooth client-side routing without full page reloads. Firebase Authentication is implemented to enable user registration and login via email and password. Firestore is used as the database to store user credentials securely.
